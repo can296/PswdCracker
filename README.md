@@ -5,7 +5,7 @@ This tool is made to crack Facebook passwords (educational use only).
 
 ```bash
 $ git clone https://github.com/cann66dev/PswdCracker.git 
-$ cd PswdCracker ls chmod +x *
+$ cd PswdCracker * ls chmod 
 $ pip install -r requirements.txt 
 $ bash install.sh (OPTIONAL. If you get any error, try this command) bash install-if-you-want.sh
 ```
