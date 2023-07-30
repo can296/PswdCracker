@@ -2,7 +2,7 @@
 This tool is made to crack Instagram and Facebook passwords (educational use only).
 
 # Setup
-'''
+'''bash
 git clone https://github.com/cann66dev/PswdCracker.git 
 cd I5C ls chmod +x * 
 pip install -r requirements.txt 
